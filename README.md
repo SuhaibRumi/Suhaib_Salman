@@ -124,6 +124,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ![3D Portfolio Laptop](./Images/3.png)
 ![3D Portfolio Laptop](./Images/4.png)
 ![3D Portfolio Laptop](./Images/5.png)
+![3D Portfolio Laptop](./Images/6.png)
 
 <hr>
 
