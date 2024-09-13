@@ -1,7 +1,7 @@
 # 3D React Portfolio
 
-
 # [Personal Portfolio - 3D React Portfolio](https://shinchancode.github.io/3d-react-portfolio/)
+
 <b>Created a responsive react website using amazing features of CSS, HTML and Javascript framework React with 3D graphics and animations. I have used ThreeJS 3D Developer tools for this Portfolio.
 
 Implemented my own Portfolio as Website, Where I have added all my projects and experiences. I have hosted it with the help of github gh-pages. I keep on making changes accordingly to keep it up-to-date.</b>
@@ -9,14 +9,16 @@ Implemented my own Portfolio as Website, Where I have added all my projects and 
 ![3D Portfolio](https://github.com/shinchancode/3d-react-portfolio/blob/main/Images/1.png)
 
 ## View Live Demo
+
 <pre><center><a href="https://shinchancode.github.io/3d-react-portfolio/"><b>https://shinchancode.github.io/3d-react-portfolio/</b></a></center></pre>
 
-
 ## Introduction
-The most impressive websites in the world use 3D graphics and animations to bring their content to life. See here how to build your own ThreeJS 3D Developer Portfolio today! 
- 
+
+The most impressive websites in the world use 3D graphics and animations to bring their content to life. See here how to build your own ThreeJS 3D Developer Portfolio today!
+
 In this project, you'll use these technologies:
-- **ThreeJS** -  an incredibly powerful 3D graphics library that enables you to render and animate captivating 3D models with ease.
+
+- **ThreeJS** - an incredibly powerful 3D graphics library that enables you to render and animate captivating 3D models with ease.
 - **React Three Fiber** - a widely adopted library that seamlessly integrates ThreeJS into React, allowing you to create stunning 3D graphics while harnessing the full potential of React's capabilities.
 - **TailwindCSS** - a highly popular utility-first CSS styling framework that empowers you to craft visually stunning websites with minimal effort.
 - **Framer Motion** - the go-to library for adding captivating animations to your React websites, breathing life into your creations and making them truly stand out.
@@ -28,7 +30,7 @@ In this project, you'll use these technologies:
 - Incorporate a functional email form on our website, allowing visitors to easily reach out to you, thus enhancing user engagement and interactivity.
 - Ensuring that our website exhibits optimal responsiveness across all devices, offering a seamless user experience. Additionally, you'll learn to optimize our site's performance using techniques such as Suspense and Preload.
 - Prepare to embark on an exciting journey that will transform you into a skilled ThreeJS 3D Developer, enabling you to create visually stunning and interactive web experiences that will leave a lasting impression on audience.
- 
+
  <hr>
 # Getting Started with Create React App
 
@@ -63,12 +65,12 @@ and begin a new sentence for however many strings you've set.
 See the section about [deployment](https://unpkg.com/ityped@1.0.3) for more information.
 
 ### `npm i @material-ui/core`
+
 ### `npm i @material-ui/core`
 
 React components for faster and easier web development. Build your own design system, or start with Material Design.
 
 See the section about [MUI Documentation](https://mui.com/) for more information.
-
 
 ### `npm run build`
 
@@ -78,19 +80,27 @@ Your app is ready to be deployed!
 Other libraries and dependencies which needs to be installed before working on the project
 
 ### `npm create vite@latest ./ -- --template react`
+
 ### `npm install -D tailwindcss`
+
 ### `npx tailwindcss init`
+
 ### `npm install --legacy-peer-deps @react-three/fiber @react-three/drei maath react-tilt react-vertical-timeline-component @emailjs/browser framer-motion react-router-dom`
+
 ### `npm run dev`
 
 ### `npm install --legacy-peer-deps -D postcss autoprefixer`
+
 ### `npx tailwindcss init -p`
+
 ### `npm install --save-dev sass`
+
 ### `npm i ityped`
+
 ### `npm install --legacy-peer-deps three`
 
-
 ### `npm install react-icons --save`
+
 ### `npm install --legacy-peer-deps react-parallax-tilt`
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
@@ -104,28 +114,27 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 ### Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
 <hr>
 
 ## [SnapShots in Laptop View](https://shinchancode.github.io/3d-react-portfolio/)
 
-![3D Portfolio Laptop](https://github.com/shinchancode/3d-react-portfolio/blob/main/Images/1.png)
+![3D Portfolio Laptop](https://github.com/SuhaibRumi/3d-react-portfolio/blob/main/Images/1.png)
 
-![3D Portfolio Laptop](https://github.com/shinchancode/3d-react-portfolio/blob/main/Images/2.png)
+![3D Portfolio Laptop](https://github.com/SuhaibRumi/3d-react-portfolio/blob/main/Images/2.png)
 
-![3D Portfolio Laptop](https://github.com/shinchancode/3d-react-portfolio/blob/main/Images/3.png)
+![3D Portfolio Laptop](https://github.com/SuhaibRumi/3d-react-portfolio/blob/main/Images/3.png)
 
-![3D Portfolio Laptop](https://github.com/shinchancode/3d-react-portfolio/blob/main/Images/4.png)
+![3D Portfolio Laptop](https://github.com/SuhaibRumi/3d-react-portfolio/blob/main/Images/4.png)
 
-![3D Portfolio Laptop](https://github.com/shinchancode/3d-react-portfolio/blob/main/Images/5.png)
-
-![3D Portfolio Laptop](https://github.com/shinchancode/3d-react-portfolio/blob/main/Images/6.png)
+![3D Portfolio Laptop](https://github.com/SuhaibRumi/3d-react-portfolio/blob/main/Images/5.png)
 
 <hr>
 
-## [SnapShots in Mobile View](https://shinchancode.github.io/3d-react-portfolio/)
+<!-- ## [SnapShots in Mobile View](https://shinchancode.github.io/3d-react-portfolio/)
 
 <div align="center">
-<img src="https://github.com/shinchancode/3d-react-portfolio/blob/main/Images/p1.jpg" width="250px" height="400"/>
+<img src="https://github.com/Suha/3d-react-portfolio/blob/main/Images/p1.jpg" width="250px" height="400"/>
 
 <img src="https://github.com/shinchancode/3d-react-portfolio/blob/main/Images/p2.jpg" width="250px" height="400"/>
 
@@ -139,7 +148,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 <img src="https://github.com/shinchancode/3d-react-portfolio/blob/main/Images/p5.png" width="250px" height="400"/>
 
 <img src="https://github.com/shinchancode/3d-react-portfolio/blob/main/Images/p6.png" width="250px" height="400"/>
-</div>  
+</div>   -->
 
 ### Connect with me:
 
@@ -150,7 +159,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 <br />
 
-[website]: https://shinchancode.github.io/3d-react-portfolio/
 [twitter]: https://twitter.com/CodeShinchan
-[instagram]: https://www.instagram.com/aarti.rathiii
+[instagram]: https://www.instagram.com/suhaibrumii/
 [linkedin]: https://www.linkedin.com/in/aarti-rathi-a6031814b/
