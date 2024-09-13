@@ -120,13 +120,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ## [SnapShots in Laptop View](https://SuhaibRumi.github.io/3d-react-portfolio/)
 
 ![3D Portfolio Laptop](./Images/1.png)
-
 ![3D Portfolio Laptop](./Images/2.png)
-
 ![3D Portfolio Laptop](./Images/3.png)
-
 ![3D Portfolio Laptop](./Images/4.png)
-
 ![3D Portfolio Laptop](./Images/5.png)
 
 <hr>
